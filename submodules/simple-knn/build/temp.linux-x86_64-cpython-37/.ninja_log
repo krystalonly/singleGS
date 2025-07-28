@@ -1,0 +1,5 @@
+# ninja log v5
+1	10892	1728810331072652900	/media/sxm/Data/smh/GaussianTalker/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	dfdc0303426e2230
+1	23372	1728810343537415000	/media/sxm/Data/smh/GaussianTalker/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	ae5cab39f269ee08
+1	47256	1728810367434352900	/media/sxm/Data/smh/GaussianTalker/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	3d9c20dc0ffaf4d7
+404	23890	1729606692276181100	/media/sxm/Data/smh/GaussianTalker/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	ae5cab39f269ee08
